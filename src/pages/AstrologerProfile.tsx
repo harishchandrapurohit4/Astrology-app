@@ -143,6 +143,7 @@ export default function AstrologerProfile() {
                 <p className="text-gray-600 leading-relaxed">{astrologer.bio}</p>
               </div>
             )}
+            
 
             <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
               <div className="flex items-center gap-2 mb-4">
